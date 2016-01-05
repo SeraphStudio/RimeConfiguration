@@ -1,0 +1,14 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 中英文混输的时候有用
+
+---
+name: chinese_contain_english
+version: "0.1"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+# 自定義的詞條
+joshua7v@hotmail.com	email	1

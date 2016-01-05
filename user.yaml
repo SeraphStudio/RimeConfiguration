@@ -1,0 +1,11 @@
+var:
+  option:
+    simplification: true
+  previously_selected_schema: double_pinyin_flypy_fluency
+  schema_access_time:
+    cangjie5: 1447669461
+    double_pinyin_flypy: 1447679942
+    double_pinyin_flypy_fluency: 1451968534
+    luna_pinyin: 1447669540
+    luna_pinyin_fluency: 1447669476
+    luna_pinyin_simp: 1447669489

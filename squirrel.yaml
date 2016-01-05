@@ -1,0 +1,43 @@
+app_options:
+  com.alfredapp.Alfred:
+    ascii_mode: true
+  com.apple.Terminal:
+    ascii_mode: true
+    no_inline: true
+  com.blacktree.Quicksilver:
+    ascii_mode: true
+  com.googlecode.iterm2:
+    ascii_mode: true
+  "com.runningwithcrayons.Alfred-2":
+    ascii_mode: true
+  org.vim.MacVim:
+    ascii_mode: true
+    no_inline: true
+chord_duration: 0.1
+config_version: 0.22.custom.2672508324
+customization: 2672508324
+preset_color_schemes:
+  apathy:
+    author: "Joshua <joshua7v@hotmail.com>"
+    back_color: 0x333333
+    border_height: 5
+    border_width: 7
+    candidate_format: "%c %@ "
+    comment_text_color: 0xDDDDDD
+    corner_radius: 3
+    font_face: "Lucida Grande"
+    font_point: 18
+    hilited_candidate_back_color: 0xFFFFFF
+    hilited_candidate_label_color: 0x000000
+    hilited_candidate_text_color: 0x000000
+    horizontal: true
+    inline_preedit: true
+    label_font_face: "Lucida Grande"
+    label_font_point: 17
+    name: Seraph
+    text_color: 0xAAAAAA
+show_notifications_via_notification_center: true
+show_notifications_when: appropriate
+style:
+  color_scheme: apathy
+us_keyboard_layout: false

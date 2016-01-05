@@ -1,0 +1,32 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# seraph dict
+#
+#   Joshua <joshua7v@hotmail.com>
+#
+# Thanks to the following works:
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: seraph
+version: "2015.11.07"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin
+  - luna_pinyin.hanyu
+  - luna_pinyin.poetry
+  - luna_pinyin.cn_en
+  - luna_pinyin.extended
+...
+
+joshua7v@hotmail.com	email	1
+283933216@qq.com	email	2
